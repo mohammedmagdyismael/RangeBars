@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RangeBars/static/css/main.9aa4e6d0.chunk.css",
+    "main.js": "/RangeBars/static/js/main.4377c39a.chunk.js",
+    "main.js.map": "/RangeBars/static/js/main.4377c39a.chunk.js.map",
+    "runtime-main.js": "/RangeBars/static/js/runtime-main.4048f2ea.js",
+    "runtime-main.js.map": "/RangeBars/static/js/runtime-main.4048f2ea.js.map",
+    "static/js/2.7df24596.chunk.js": "/RangeBars/static/js/2.7df24596.chunk.js",
+    "static/js/2.7df24596.chunk.js.map": "/RangeBars/static/js/2.7df24596.chunk.js.map",
+    "index.html": "/RangeBars/index.html",
+    "precache-manifest.4713ae3c21122513bdd712d73cb45dc6.js": "/RangeBars/precache-manifest.4713ae3c21122513bdd712d73cb45dc6.js",
+    "service-worker.js": "/RangeBars/service-worker.js",
+    "static/css/main.9aa4e6d0.chunk.css.map": "/RangeBars/static/css/main.9aa4e6d0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4048f2ea.js",
+    "static/js/2.7df24596.chunk.js",
+    "static/css/main.9aa4e6d0.chunk.css",
+    "static/js/main.4377c39a.chunk.js"
+  ]
+}
